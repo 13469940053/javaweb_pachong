@@ -5,4 +5,4 @@
 
 源码地址如下：
 
-https://13469940053.github.io/javaweb_pachong/
+https://github.com/13469940053/javaweb_pachong
